@@ -7,3 +7,5 @@ In the `package.json` file add `--watch` to the dev scripts. I didn't because of
 Run `pip install -r requirements.txt` for python dependencies i.e Django.
 
 Run `npm install` to get all node dependencies.
+
+Cd into `starter` and run `python3 manage.py runserver`
